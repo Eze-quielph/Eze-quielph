@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend developer from Argentina</h3>
 
 <p align="center">
-  🌱 I’m currently learning React, Redux, and JPA.
+  🌱 I’m currently learning Express, Nestjs, and Redis.
 </p>
 
 <p align="center">
