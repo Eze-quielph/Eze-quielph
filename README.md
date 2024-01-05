@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ezequiel Benitez</h1>
+<h1 align="center">Hi 👋, I'm <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ezequiel%20Benitez&section=footer&reversal=true&textBg=true&fontSize=60&animation=fadeIn"></a></h1>
 <h3 align="center">A passionate Backend developer from Argentina</h3>
 
 <p align="center">
